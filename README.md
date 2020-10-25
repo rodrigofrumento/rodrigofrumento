@@ -16,4 +16,4 @@ Desenvolvedor Front-end com foco em UX/UI, buscando sempre aprender cada dia mai
 + MongoDB
 
 ### Frase para finalizar!
-<cite> Sua terefa é descobrir o seu trabalho e, então, com todo o coração, dedicar-se a ele. **Buda**</cite> 
+> Sua tarefa é descobrir o seu trabalho e, então, com todo o coração, dedicar-se a ele. **Buda**
