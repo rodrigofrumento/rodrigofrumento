@@ -1,7 +1,6 @@
 # Olá, sou o Rodrigo
-
-[![Github Badge] (https://img.shields.io/badge/-Github-000?style=plastic&logoColor=white&link=https://github.com/rodrigofrumento)] (https://github.com/rodrigofrumento)
-[![Linkedin Badge] (https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&link=https://linkedin.com/in/rodrigofrumento)] (https://linkedin.com/in/rodrigofrumento)
+[Github](https://github.com/rodrigofrumento)
+[Linkedin](https://linkedin.com/in/rodrigofrumento)
 
 ### Sobre Mim
 Desenvolvedor Front-end com foco em UX/UI, buscando sempre aprender cada dia mais! Eterno estudante de coisas divertidas para se fazer com a programação!
