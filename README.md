@@ -1,6 +1,7 @@
 # Olá, sou o Rodrigo
 [Github](https://github.com/rodrigofrumento)
 [Linkedin](https://linkedin.com/in/rodrigofrumento)
+[Site Pessoal](https://rodrigofrumento.github.io)
 
 ### Sobre Mim
 Desenvolvedor Front-end com foco em UX/UI, buscando sempre aprender cada dia mais! Eterno estudante de coisas divertidas para se fazer com a programação!
