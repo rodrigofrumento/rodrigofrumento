@@ -4,16 +4,10 @@
 [Site Pessoal](https://rodrigofrumento.github.io)
 
 ### Sobre Mim
-Desenvolvedor Front-end com foco em UX/UI, buscando sempre aprender cada dia mais! Eterno estudante de coisas divertidas para se fazer com a programação!
+Product Owner!
 
 ### Tecnologias
 + HTML e CSS
-+ JavaScript
-    - React
-    - Node
-+ PHP
-    - Laravel
-+ MySQL
 + MongoDB
 
 ### Frase para finalizar!
