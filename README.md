@@ -11,6 +11,7 @@ Product Owner!
 ### Tecnologias
 + HTML e CSS
 + MongoDB
++ GO
 
 ### Frase para finalizar!
 > Sua tarefa é descobrir o seu trabalho e, então, com todo o coração, dedicar-se a ele. **Buda**
