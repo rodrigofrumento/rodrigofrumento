@@ -9,9 +9,11 @@
 Product Owner!
 
 ### Tecnologias
-+ HTML e CSS
++ Kanban & Scrum
++ SQL
++ Python
 + MongoDB
-+ GO
++ Golang
 
 ### Frase para finalizar!
 > Sua tarefa é descobrir o seu trabalho e, então, com todo o coração, dedicar-se a ele. **Buda**
